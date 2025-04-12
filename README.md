@@ -5,3 +5,8 @@ Admins can create invitation codes, manage user roles, and delete users. Student
 The application begins by running StartCSE360.java. If no users exist, the first screen helps create the initial admin. All login, setup, and password reset functionalities use FSM validation for usernames and graph-based validation for passwords. A secure OTP feature allows users to reset forgotten passwords.
 
 To use the program, you can just ensure that JavaFX is configured in your IDE. Run the StartCSE360.java file, and the UI will guide you through login or setup based on your role. All key functionality has been tested and documented.
+
+
+My Screencast:
+https://asu.zoom.us/rec/share/OHZYRZocrT8wxbLyRng-kO-0v5MJOE5055vwbz8KEIXnEkrExw5yH40NyVtHFNYq.J46DOoOi7i-aG-YA 
+Passcode: Yi.M@2A6
